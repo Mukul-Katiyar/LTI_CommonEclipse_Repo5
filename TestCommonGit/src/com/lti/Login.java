@@ -1,8 +1,8 @@
 package com.lti;
 
 public class Login {
-	public boolean registration(){
-	    return true;
+	public void registration(){
+		System.out.println("registered");
     }
 
 	public void login(){
