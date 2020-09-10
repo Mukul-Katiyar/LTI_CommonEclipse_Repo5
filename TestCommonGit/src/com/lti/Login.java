@@ -1,7 +1,7 @@
 package com.lti;
 
 public class Login {
-	public boolean registeration(){
+	public boolean registration(){
 	    return true;
     }
 	
