@@ -5,8 +5,8 @@ public class Login {
 	    return true;
     }
 	
-	public void login()
-	{
+	public void login(){
+		System.out.println("Login");
 	}
 	
 	
